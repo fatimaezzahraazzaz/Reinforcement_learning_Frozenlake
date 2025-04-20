@@ -1,0 +1,22 @@
+# PyQt5 pour l'interface graphique
+PyQt5==5.15.9
+
+# NumPy pour les calculs numériques et la manipulation de tableaux
+numpy==1.24.3
+
+# Gymnasium pour l'environnement FrozenLake
+gymnasium==0.28.1
+
+gymnasium[toy-text]==0.28.1
+
+# Matplotlib pour tracer des graphiques (récompenses et heatmap)
+matplotlib==3.7.1
+
+# Pillow (PIL) pour manipuler des images (affichage des fraises)
+Pillow==9.5.0
+
+# Pickle (inclus dans Python standard library, mais mentionné pour clarté)
+# Pas besoin d'installation séparée, car c'est une bibliothèque intégrée
+
+# Python >=3.7 (recommandé Python 3.9 ou supérieur)
+# Note : Ce n'est pas une dépendance pip, mais assurez-vous d'avoir au moins Python 3.7 installé.
